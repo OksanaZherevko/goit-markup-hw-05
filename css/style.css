@@ -21,6 +21,7 @@ font-family: 'Roboto', sans-serif; */
   --grey-border-color: #eeeeee;
   --grey-border-color-partners: #afb1b8;
   --grey-dark-circle-for-icon: rgba(255, 255, 255, 0.1);
+  --activity-color: rgba(47, 48, 58, 0.8);
   }
 
   .visually-hidden {
@@ -520,7 +521,7 @@ color: var(--accent-color);
   text-transform: uppercase;
   text-align: center;
   color: var(--white-color);
-  background-color: var(--black-color);
+  background-color: var(--activity-color);
 
   margin-top: 0px;
   margin-bottom: 0px;
