@@ -275,15 +275,13 @@ font-family: 'Roboto', sans-serif; */
   font-size: 18px;
   line-height: 1.556;
   color: var(--white-color);
-  text-align: center;
-
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 63px;
   padding-right: 24px;
   padding-bottom: 63px;
   padding-left: 24px;
-}
+ }
 
 .btn {
   font-weight: 700;
